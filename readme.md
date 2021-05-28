@@ -1,6 +1,6 @@
 # To-Do List web app
 
-Simple web application to manage our tasks to do with local SQLite.
+Simple web application to manage our tasks to do connected to local Database - SQLite.
 
 ## Table of Contents
 * [General info](#general-info)
@@ -11,6 +11,7 @@ Simple web application to manage our tasks to do with local SQLite.
 Project is created with:
 * Django
 * Python 3.9.2
+
 
 ## Setup
 
