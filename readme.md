@@ -7,11 +7,14 @@ Simple web application to manage our tasks to do connected to local Database - S
 * [Technologies](#technologies)
 * [Setup](#setup)
 
+## General info
+Web application made to educational purpose, 
+
 ## Technologies
 Project is created with:
-* Django
+* Django freamwork
 * Python 3.9.2
-
+* html
 
 ## Setup
 
