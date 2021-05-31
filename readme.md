@@ -8,7 +8,7 @@ Simple web application to manage our tasks to do connected to local Database - S
 * [Setup](#setup)
 
 ## General info
-Web application made to educational purpose, 
+Web application made to educational purpose.
 
 ## Technologies
 Project is created with:
