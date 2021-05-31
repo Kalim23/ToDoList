@@ -25,7 +25,7 @@ To run server open command console locally and type:
 
 $ python manage.py runserver
 
-![Alt text](images/runserver.png?raw=true "Title")
+![Alt text](ToDoList/images/runserver.png?raw=true "Title")
 
 
 Open given link and manage your tasks :)
