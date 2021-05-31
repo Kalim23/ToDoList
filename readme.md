@@ -17,7 +17,8 @@ Project is created with:
 * HTML
 
 ## Setup
-To run this project, run local server and open it in your webbrowser.
+To run this project, run local server and open it in your webbrowser, by following steps:
+
 ```
 $ cd ../ToDoList
 ```
@@ -26,9 +27,7 @@ To run server open command console locally and type
 $ pip install django
 $ python manage.py runserver
 ```
-
-
-Open given link and manage your tasks :)
+Open given localhost page and manage your tasks :)
 
 ![app](https://user-images.githubusercontent.com/49193633/120198117-13b15f00-c222-11eb-9a10-721b08f53721.PNG)
 
