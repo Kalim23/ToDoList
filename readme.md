@@ -21,9 +21,10 @@ To run this project, run local server and open it in your webbrowser.
 
 $ cd ../ToDoList
 
-To run server open command console locally and type:
+To run server open command console locally and type
 
 $ pip install django
+
 $ python manage.py runserver
 
 
