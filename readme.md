@@ -12,9 +12,9 @@ Web application made to educational purpose,
 
 ## Technologies
 Project is created with:
-* Django freamwork
+* Django 3.2 freamwork
 * Python 3.9.2
-* html
+* HTML
 
 ## Setup
 To run this project, run local server and open it in your webbrowser.
@@ -23,9 +23,8 @@ $ cd ../ToDoList
 
 To run server open command console locally and type:
 
+$ pip install django
 $ python manage.py runserver
-
-![Alt text](./ToDoList/images/runserver.png)
 
 
 Open given link and manage your tasks :)
