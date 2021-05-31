@@ -1,4 +1,4 @@
-# To-Do List web app
+# To-Do-List web app
 
 Simple web application to manage our tasks to do, connected to local Database - SQLite.
 
