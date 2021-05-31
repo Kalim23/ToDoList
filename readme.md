@@ -17,5 +17,19 @@ Project is created with:
 * html
 
 ## Setup
+To run this project, run local server and open it in your webbrowser.
+
+$ cd ../ToDoList
+
+To run server open command console locally and type:
+
+$ python manage.py runserver
+
+![GitHub Logo](/images/runserver.png)
+Format: ![Alt Text](url)
+
+Open given link and manage your taska :)
+
+
 
 
