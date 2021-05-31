@@ -24,7 +24,10 @@ $ cd ../ToDoList
 ```
 To run server open command console locally and type
 ```
+if u dont have installed django freamwork:
+
 $ pip install django
+
 $ python manage.py runserver
 ```
 Open given localhost page and manage your tasks :)
