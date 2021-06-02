@@ -32,7 +32,7 @@ $ pip install django
 ```
 $ python manage.py runserver
 ```
-Open given localhost page and manage your tasks :)
+Open given localhost page on default port 8000 and manage your tasks :)
 
 ![app](https://user-images.githubusercontent.com/49193633/120198117-13b15f00-c222-11eb-9a10-721b08f53721.PNG)
 
